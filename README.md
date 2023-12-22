@@ -19,7 +19,7 @@ At **emersoncrp**, I share tutorials, tips, and projects. Here are some of the t
 - Script in Python
 - And much more!
 
-
+<!--
 At **emersonCode**, I share tutorials, tips, and projects. Here are some of the topics you can expect to find on my channel:
 
 - Django web development
@@ -27,7 +27,7 @@ At **emersonCode**, I share tutorials, tips, and projects. Here are some of the 
 - Artificial Intelligence and Machine Learning
 - React 
 - And much more!
-
+-->
 ## Connect with Me 🌐
 
 I love connecting with fellow developers and learners:
