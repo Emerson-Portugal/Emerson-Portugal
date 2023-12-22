@@ -4,9 +4,9 @@ I am a software developer and passionate about teaching. I have a YouTube channe
 
 ## My Skills 💻
 
-- Languages:** Python and Java
-- Web development:** React
-- Frameworks:** FastAPI, Flask and Django
+- **Languages:** Python and Java
+- **Web development:** React
+- **Frameworks:** FastAPI, Flask and Django
 
 ## About My YouTube Channel 📺
 
