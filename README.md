@@ -12,11 +12,11 @@ I am a software developer and passionate about teaching. I have a YouTube channe
 
 At **emersoncrp**, I share tutorials, tips, and projects. Here are some of the topics you can expect to find on my channel:
 
-- Auditorias Web
-- Auditoria Forence
+- Web Audits
+- Forensic Auditing
 - Ethical Hacking
-- Ciberseguridad
-- Script in Python
+- Cybersecurity
+- Python Scripting
 - And much more!
 
 <!--
