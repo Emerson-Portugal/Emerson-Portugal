@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hi, I'm emersoncrp 👋
 
-<!--
-**Emerson-Portugal/Emerson-Portugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer and passionate about teaching. I have a YouTube channel called **emersoncrp** with over 1K subscribers, where I teach Ethical Hacking and Cybersecurity.
 
-Here are some ideas to get you started:
+## My Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages:** Python and Java
+- Web development:** React
+- Frameworks:** FastAPI, Flask and Django
+
+## About My YouTube Channel 📺
+
+At **emersoncrp**, I share tutorials, tips, and projects. Here are some of the topics you can expect to find on my channel:
+
+- Auditorias Web
+- Auditoria Forence
+- Ethical Hacking
+- Ciberseguridad
+- Script in Python
+- And much more!
+
+
+At **emersonCode**, I share tutorials, tips, and projects. Here are some of the topics you can expect to find on my channel:
+
+- Django web development
+- FastAPI web development
+- Artificial Intelligence and Machine Learning
+- React 
+- And much more!
+
+## Connect with Me 🌐
+
+I love connecting with fellow developers and learners:
+
+- [YouTube](https://www.youtube.com/@emersoncrp) - Subscribe to my channel!
+- [Instagram](https://instagram.com/emersoncrp) - Follow me for updates and tips!
